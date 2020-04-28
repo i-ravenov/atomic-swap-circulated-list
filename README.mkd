@@ -16,6 +16,7 @@ In other words, the contracts are bound to deadlines and require the participant
 
 For example, say Alice has 5 Bitcoins but wants to trade those for BNBs. Bob, who has BNBs is willing to make the trade. By using atomic swap technology, they are able to perform a peer-to-peer trade without relying on a trusted third-party. This essentially means that two different coins, which are running on separate blockchains, can be traded without any interference.
 
+You can read more about the importance of Atomic Swaps [here](https://cryptoinsider.media/atomic-swaps-bitcoin/) and [here](https://www.coindesk.com/why-global-deflation-may-not-be-bad-news-for-bitcoin). (Source: CrytoInsider and CoinDesk)
 
 ## Atomic Swap Reading List
 
