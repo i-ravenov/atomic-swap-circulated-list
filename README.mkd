@@ -1,0 +1,4 @@
+## Atomic Swap Reading List and Projects
+
+* [Bitcoin-Monero Cross-chain Atomic Swap](https://github.com/h4sh3d/xmr-btc-atomic-swap/blob/master/whitepaper/xmr-btc.pdf)
+
