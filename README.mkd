@@ -22,3 +22,5 @@ You can read more about the importance of Atomic Swaps [here](https://cryptoinsi
 
 * [Bitcoin-Monero Cross-chain Atomic Swap](https://github.com/h4sh3d/xmr-btc-atomic-swap/blob/master/whitepaper/xmr-btc.pdf) (h4sh3d@protonmail.com)
 
+* [Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf) (maurice.herlihy@gmail.com)
+
