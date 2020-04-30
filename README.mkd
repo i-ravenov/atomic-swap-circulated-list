@@ -24,4 +24,4 @@ You can read more about the importance of Atomic Swaps [here](https://cryptoinsi
 
 * [Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf) (maurice.herlihy@gmail.com)
 
-* [Atomic Crosschain Transactions for EthereumPrivate Sidechains](https://arxiv.org/pdf/1904.12079.pdf) (peter.robinson@consensys.net, david.wood@consensys.netroberto.saltini@consensys.net, sandra.johnson@consensys.net, john.brainard@consensys.net)
+* [Atomic Crosschain Transactions for EthereumPrivate Sidechains](https://arxiv.org/pdf/1904.12079.pdf) (peter.robinson@consensys.net, david.wood@consensys.net, roberto.saltini@consensys.net, sandra.johnson@consensys.net, john.brainard@consensys.net)
